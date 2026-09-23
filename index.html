@@ -220,7 +220,7 @@
 
   /* ——— адаптив ——— */
   @media(max-width:1000px){
-    .places{grid-template-columns:repeat(2,1fr)}
+    .places{grid-template-columns:1fr}
     .routes{grid-template-columns:1fr}
     .rcard h3{min-height:0}
     .feel{grid-template-columns:1fr}
@@ -238,9 +238,16 @@
     .duo{grid-template-columns:1fr}
     .duo-card{padding:36px 30px}
     .tips{padding:36px 26px}
-    .kicker{font-size:10.5px;letter-spacing:.22em;padding:8px 16px}
+    .kicker{font-size:9.5px;letter-spacing:.18em;padding:7px 14px}
     section{padding:70px 0}
     .wrap{padding:0 20px}
+    .hero{min-height:auto}
+    .hero-in{padding:120px 0 64px}
+    h1{font-size:40px;line-height:1.12}
+    .hero p{font-size:15px;margin-bottom:28px}
+    .hero-btns{gap:12px}
+    .scroll-hint{display:none}
+    .footer-in{flex-direction:column;align-items:center;text-align:center;gap:10px}
   }
 </style>
 </head>
@@ -604,7 +611,7 @@
 <footer>
   <div class="wrap footer-in">
     <div>Концепт-путеводитель · Калининградская область</div>
-    <nav style="display:flex;gap:22px;font-size:12px">
+    <nav style="display:flex;flex-wrap:wrap;justify-content:center;gap:10px 22px;font-size:12px">
       <a href="#places">Направления</a>
       <a href="#map">Карта</a>
       <a href="#legends">Легенды</a>
