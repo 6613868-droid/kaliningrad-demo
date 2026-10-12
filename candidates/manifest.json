@@ -1,0 +1,134 @@
+{
+ "hero": [
+  {
+   "name": "hero_1.jpg",
+   "title": "File:Кафедральный собор, Калининград.jpg",
+   "kb": 1488
+  },
+  {
+   "name": "hero_2.jpg",
+   "title": "File:Кёнигсбергский кафедральный собор, Калининград.jpg",
+   "kb": 1172
+  },
+  {
+   "name": "hero_3.jpg",
+   "title": "File:Эпитафия Андреасу Фабрициусу, кафедральный собор, Калининград.jpg",
+   "kb": 1409
+  },
+  {
+   "name": "hero_4.jpg",
+   "title": "File:Кафедральный собор (Калининград) 2.jpg",
+   "kb": 729
+  }
+ ],
+ "ryb": [
+  {
+   "name": "ryb_1.jpg",
+   "title": "File:Рыбная деревня 4.jpg",
+   "kb": 372
+  },
+  {
+   "name": "ryb_2.jpg",
+   "title": "File:Калининград. Рыбная деревня. Вид на остров Канта и Медовый мост.jpg",
+   "kb": 564
+  },
+  {
+   "name": "ryb_3.jpg",
+   "title": "File:Рыбная деревня.jpg",
+   "kb": 683
+  },
+  {
+   "name": "ryb_4.jpg",
+   "title": "File:Рыбная деревня 3.jpg",
+   "kb": 479
+  }
+ ],
+ "zel": [
+  {
+   "name": "zel_1.jpg",
+   "title": "File:Zelenogradsk - View from ferris wheel, towards city center 5.jpg",
+   "kb": 695
+  },
+  {
+   "name": "zel_2.jpg",
+   "title": "File:Manhole Cover Zelenogradsk Color.jpg",
+   "kb": 1264
+  },
+  {
+   "name": "zel_3.jpg",
+   "title": "File:Zelenogradsk - Garden and view towards water tower on Pogranichnaya street.jpg",
+   "kb": 1808
+  },
+  {
+   "name": "zel_4.jpg",
+   "title": "File:Zelenogradsk 2400.JPG",
+   "kb": 1032
+  }
+ ],
+ "svet": [
+  {
+   "name": "svet_1.jpg",
+   "title": "File:Rauschen water tower 2012 2.jpg",
+   "kb": 1121
+  },
+  {
+   "name": "svet_2.jpg",
+   "title": "File:SvetlogorskRauschen 05-2017 img03 water tower.jpg",
+   "kb": 1225
+  },
+  {
+   "name": "svet_3.jpg",
+   "title": "File:Svetlogorsk Water Tower.jpg",
+   "kb": 638
+  },
+  {
+   "name": "svet_4.jpg",
+   "title": "File:SvetlogorskRauschen 05-2017 img04 water tower.jpg",
+   "kb": 783
+  }
+ ],
+ "kosa": [
+  {
+   "name": "kosa_1.jpg",
+   "title": "File:Curonian Spit NP 05-2017 img17 aerial view at Epha Dune.jpg",
+   "kb": 653
+  },
+  {
+   "name": "kosa_2.jpg",
+   "title": "File:Dune slope with view over the lagoon at Curonian Spit, Lithuania.jpg",
+   "kb": 1137
+  },
+  {
+   "name": "kosa_3.jpg",
+   "title": "File:Curonian Spit NP 05-2017 img15 Epha Dune.jpg",
+   "kb": 543
+  },
+  {
+   "name": "kosa_4.jpg",
+   "title": "File:Curonian Spit (130).jpg",
+   "kb": 203
+  }
+ ],
+ "balt": [
+  {
+   "name": "balt_1.jpg",
+   "title": "File:Baltiysk - Lighthouse.jpg",
+   "kb": 1669
+  },
+  {
+   "name": "balt_2.jpg",
+   "title": "File:Baltiysk - Harbour and lighthouse.jpg",
+   "kb": 387
+  },
+  {
+   "name": "balt_3.jpg",
+   "title": "File:Baltiysk, Kaliningrad Oblast, Russia - panoramio - Anton Yefimov (28).jpg",
+   "kb": 720
+  },
+  {
+   "name": "balt_4.jpg",
+   "title": "File:Southmollighthouse.jpg",
+   "kb": 632
+  }
+ ]
+}
